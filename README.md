@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anurag331
 - 👀 I’m interested in Competitive Programming,DSA,Web Development(Backend).
-- 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate on nothing right now.
+- 🌱 I’m currently learning DSA and Backend Development.
+- 💞️ I’m looking to collaborate on Node js.
 - 📫 How to reach me Linkedin (https://www.linkedin.com/in/anurag-chaurasia-072872192/)
 
 <!---
